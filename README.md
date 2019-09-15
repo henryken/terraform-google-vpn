@@ -1,6 +1,6 @@
 # Terraform Google Cloud Platform - [VPN Module](https://registry.terraform.io/modules/terraform-google-modules/vpn/google)
 
-This modules makes it easy to set up VPN connectivity in GCP by defining your gateways and tunnels in a concise syntax.
+This module makes it easy to set up VPN connectivity in GCP by defining your gateways and tunnels in a concise syntax.
 
 It supports creating:
 
